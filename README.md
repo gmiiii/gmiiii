@@ -25,7 +25,6 @@
 - 💻 I am developing my skills as a Software Developer | Enthusiastic about new technologies
 - 📚 I am on my way to earn my Bachelor's in Software Engineering
 - 📝 I have a strong interest in building documents and Frontend UIs for applications
-- 🔭 Working on Shopify Themes and React websites using Gatsby.js
 - 🌱 Focusing on learning about customer needs and making their lives easier
 - 🌟 My main languages are Java, C#, and Python
 - 🚩 Interested in System Analysis, BackEnd, and Application development
