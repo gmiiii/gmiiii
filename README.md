@@ -40,9 +40,9 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="gmiiii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gmiiii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    <img alt="gmiiii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gmiiii&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="170px"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmiiii&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="gmiiii" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmiiii&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="gmiiii" height="170px"/>
 </p>
 
 **Note:** Top languages are a metric of the languages my public code consists of and don't reflect my experience or skill level.
